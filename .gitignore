@@ -1,0 +1,5 @@
+# Default ignored files
+/test_spring_boot.iws
+
+# Project exclude paths
+/.gradle/
