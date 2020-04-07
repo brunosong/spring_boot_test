@@ -1,5 +1,10 @@
 # Default ignored files
 /test_spring_boot.iws
+/test_spring_boot.ipr
+/song.iml
+/song.main.iml
+/song.test.iml
+/settings.gradle
 
 # Project exclude paths
 /.gradle/
